@@ -129,9 +129,62 @@ h1 {
 
 @media(max-width: 768px) {
     h1 {
-        font-size: 2.5em;
+        font-size: 3em;
     }
     p {
-        font-size: 1em;
+        font-size: 1.25em;
     }
+
+    .welcomecontainer {
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        top: 275px;
+    
+    }
+    
+    .paracontainer {
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        top: 360px;
+    }
+
+    .name {
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        font-size: 0.5em;
+        top: 255px;
+    
+    }
+    .buttons {
+        position: absolute;
+        top: 500px;
+        transform: translateY(-50%);
+        width: 100%;
+        text-align: center;
+    
+    }
+    
+    .btn {
+        display: inline-block;
+        width: 75px;
+        height: 75px;
+        background: #f1f1f1;
+        margin: 10px;
+        border-radius: 30%;
+        box-shadow: 0 5px 15px -5px #00000070;
+        color: #3498db;
+        overflow: hidden;
+        position: relative;
+    }
+    
+.btn i {
+    line-height: 75px;
+    font-size: 26px;
+    transition: 0.2s linear;
+
+}
+
 }
