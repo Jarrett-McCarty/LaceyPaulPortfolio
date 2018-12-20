@@ -160,7 +160,7 @@ h1 {
     }
     .buttons {
         position: absolute;
-        top: 500px;
+        top: 490px;
         transform: translateY(-50%);
         width: 100%;
         text-align: center;
