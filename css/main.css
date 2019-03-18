@@ -552,7 +552,8 @@ img, h1, h2, p {
 
 .socialmedia {
   position: absolute;
-  top: 570px;
+  /*top: 570px;*/
+  top: 75%;
   left: 200px;
 }
 
