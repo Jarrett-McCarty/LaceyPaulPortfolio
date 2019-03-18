@@ -482,7 +482,7 @@ img, h1, h2, p {
 
 .intro .introtext {
   position: absolute;
-  top: -680px;
+  top: -90vh; /*-680px*/
   left: 175px;
   text-align: center;
   height: 100vh;
@@ -648,7 +648,12 @@ img, h1, h2, p {
     left: -10%;
   }
 }
-
+@media (min-width: 2560px)
+{
+  .header img{
+    bottom: 0px;
+  }
+}
 .imgabout {
   position: relative;
   width: 100%;
