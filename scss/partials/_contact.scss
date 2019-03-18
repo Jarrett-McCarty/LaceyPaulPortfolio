@@ -1,0 +1,56 @@
+.con {
+    position: absolute;
+    color: $black;
+    top: 5300px;
+    left: 225px;
+    font-family: $ff-os;
+    font-weight: $fw-n;
+    font-size: 2rem;
+}
+
+.conimg {
+    position: relative;
+    width: 30%;
+    top: 800px;
+    left: 275px;
+    z-index: 10;
+}
+
+.finalrect {
+    position: relative;
+    top: 690px;
+    height: 120px;
+    width: 1519px;
+    background-color: $black;
+}
+.creditsrect {
+    position: relative;
+    top: 690px;
+    height: 120px;
+    width: 1519px;
+    background-color: $gray;
+}
+.name1{
+    color: $charcoal-gray;
+    font-family: $ff-os;
+    font-size: .8rem;
+    position: absolute;
+    top: 6140px;
+    left: 1300px;
+}
+.name{
+    color: $charcoal-gray;
+    font-family: $ff-os;
+    font-size: .8rem;
+    position: absolute;
+    top: 6160px;
+    left: 1300px;
+}
+.end {
+    color: $charcoal-gray;
+    font-family: $ff-os;
+    font-size: .8rem;
+    position: absolute;
+    top: 6180px;
+    left: 1300px;
+}

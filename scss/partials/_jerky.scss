@@ -1,0 +1,109 @@
+.jerkyrect {
+    position: relative;
+    top: 0px;
+    height: 600px;
+    width: 50%;
+    background-color: $silver;
+}
+.title {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    color: $black;
+    font-family: $ff-os;
+    font-size: 3rem;
+    font-weight: $fw-b;
+}
+
+.titletext {
+    position: absolute;
+    top: 22%;
+    //left: 50px;
+    margin-left: 9%;
+    margin-right: 75%;
+    color: $black;
+    font-family: $ff-ssp;
+    font-size: 1.2rem;
+    font-weight: $fw-n;
+    line-height: 1.3rem;
+}
+
+    .one {
+        width: 40%;
+        margin-bottom: 20%;
+        margin-top: 15%;
+        margin-left: 30%;
+    }
+    .two {
+        width: 60%;
+        margin-bottom: 20%;
+        margin-left: 20%;
+    }
+    .three {
+        width: 40%;
+        margin-bottom: 20%;
+        margin-left: 30%;
+    }
+    .four {
+        width: 40%;
+        margin-bottom: 20%;
+        margin-left: 30%;
+    }
+    .five {
+        width: 60%;
+        margin-bottom: 20%;
+        margin-left: 20%;
+    }
+    .six {
+        width: 60%;
+        margin-left: 20%;
+        margin-bottom: 15%;
+    }
+
+    .jerkybutton {
+        text-align: center;
+        top: 6850px;
+        position: absolute;
+        left: 6%;
+        .jerkbtn {
+            position: relative;
+            border: 1.5px solid $black;
+            background: none;
+            padding: 10px 20px;
+            font-size: 10px;
+            font-family: $ff-ssp;
+            font-weight: $fw-b;
+            letter-spacing: 2.5px;
+            cursor: pointer;
+            margin: 10px;
+            color: $black;
+            text-decoration: none;
+        }
+        .jerkbtn:hover {
+            color: $blue;
+            border: 1.5px solid $blue;
+            box-shadow: 7px 7px 7px -7px $black;
+            
+        } 
+    }
+    
+@media(max-width: 768px) {
+    .title {
+        font-size: 1rem;
+    }
+
+    .titletext {
+        font-size: .55rem;
+    }
+
+    .jerkybutton {
+        top: 2800px;
+        .jerkbtn {
+            font-size: 7px;
+            border: 1px solid $black;
+        }
+        .jerkbtn:hover {
+            border: 1px sold $blue;
+        }
+    }
+}
