@@ -651,7 +651,7 @@ img, h1, h2, p {
 @media (min-width: 2880px)
 {
   .header img{
-    width: 110%;
+    width: 120%;
     bottom: 0px;
     /**/
   }
