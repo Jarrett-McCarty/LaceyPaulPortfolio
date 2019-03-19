@@ -666,7 +666,7 @@ img, h1, h2, p {
   }*/
   .hero-logo {
     top: -835px;
-    left: 1110px;
+    left: 1105px;
   }
   .socialmedia {
     top: 73%;
@@ -735,7 +735,11 @@ img, h1, h2, p {
   margin-top: 15%;
   line-height: 1.6;
 }
-
+@media (min-width: 900px) and (max-width: 1441px) {
+  .imgabout .rect1 {
+    width: 1439px;
+  }
+}
 .wbutton {
   text-align: center;
   top: 1675px;
