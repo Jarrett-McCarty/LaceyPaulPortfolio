@@ -650,11 +650,25 @@ img, h1, h2, p {
 }
 @media (min-width: 900px) and (max-width: 1441px) {
   .header img{
-    width: 120%;/**/
+    width: auto;/**/
     height: auto;
+    bottom: 0px;
+  }
+  .intro img {
+    top: -700px;
   }
   .intro .introtext {
-    top: -610px;
+    top: -650px;
+  }
+  /*
+  .hero-subtext {
+
+  }*/
+  .hero-logo {
+    top: -875px;
+  }
+  .socialmedia {
+    top: 60%;
   }
 }
 .imgabout {
