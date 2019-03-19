@@ -654,6 +654,9 @@ img, h1, h2, p {
     width: 120%;/**/
     height: auto;
   }
+  .intro .introtext {
+    top: -610px;
+  }
 }
 .imgabout {
   position: relative;
