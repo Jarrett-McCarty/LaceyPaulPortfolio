@@ -653,6 +653,7 @@ img, h1, h2, p {
   .header img{
     width: 110%;
     bottom: 0px;
+    /**/
   }
 }
 .imgabout {
