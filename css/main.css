@@ -737,7 +737,10 @@ img, h1, h2, p {
 }
 @media (min-width: 900px) and (max-width: 1441px) {
   .imgabout .rect1 {
-    width: 1439px;
+    width: auto;
+  }
+  .aboutme {
+    top: 900px;
   }
 }
 .wbutton {
