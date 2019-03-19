@@ -648,12 +648,11 @@ img, h1, h2, p {
     left: -10%;
   }
 }
-@media (min-width: 2880px)
+@media (max-width: 2880px)
 {
   .header img{
-    width: 120%;
-    bottom: 0px;
-    /**/
+    width: 120%;/**/
+    height: auto;
   }
 }
 .imgabout {
