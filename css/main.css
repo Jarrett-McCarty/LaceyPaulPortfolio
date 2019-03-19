@@ -739,8 +739,14 @@ img, h1, h2, p {
   .imgabout .rect1 {
     width: auto;
   }
+  .imgabout .about {
+    left: 600px;
+  }
   .aboutme {
-    top: 900px;
+    top: 1000px;
+  }
+  .aboutme .welcome-text {
+    margin-right: 60%;
   }
 }
 .wbutton {
