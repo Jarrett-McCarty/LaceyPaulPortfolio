@@ -658,7 +658,7 @@ img, h1, h2, p {
     top: -700px;
   }
   .intro .introtext {
-    top: -650px;
+    top: -700px;
   }
   /*
   .hero-subtext {
@@ -668,7 +668,7 @@ img, h1, h2, p {
     top: -875px;
   }
   .socialmedia {
-    top: 60%;
+    top: 70%;
   }
 }
 .imgabout {
