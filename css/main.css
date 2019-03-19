@@ -648,7 +648,7 @@ img, h1, h2, p {
     left: -10%;
   }
 }
-@media screen and (min-width: 1799px) {
+@media (min-width: 1799px) {
   .header img{
     width: 120%;/**/
     height: auto;
