@@ -648,7 +648,7 @@ img, h1, h2, p {
     left: -10%;
   }
 }
-@media (min-width: 2880px)
+@media (min-width: 2879px)
 {
   .header img{
     width: 120%;/**/
