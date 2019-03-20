@@ -737,11 +737,11 @@ img, h1, h2, p {
 }
 @media (min-width: 900px) and (max-width: 1441px) {
   .imgabout .rect1 {
-    top: -635px;
+    top: -645px;
     width: auto;
   }
   .imgabout img {
-    top: -500px;
+    top: -600px;
   }
   .imgabout .about {
     top: -500px;
