@@ -737,14 +737,14 @@ img, h1, h2, p {
 }
 @media (min-width: 900px) and (max-width: 1441px) {
   .imgabout .rect1 {
-    top: -640px;
+    top: -643px;
     width: auto;
   }
   .imgabout img {
     top: -550px;
   }
   .imgabout .about {
-    top: -500px;
+    top: -525px;
     left: 610px;
   }
   .aboutme {
@@ -754,7 +754,7 @@ img, h1, h2, p {
     margin-right: 45%;
   }
   .wbutton {
-    top: 1650px;
+    top: 1640px;
   }
 }
 .wbutton {
