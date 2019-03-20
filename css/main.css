@@ -737,18 +737,18 @@ img, h1, h2, p {
 }
 @media (min-width: 900px) and (max-width: 1441px) {
   .imgabout .rect1 {
-    top: -650px;
+    top: -630px;
     width: auto;
   }
   .imgabout img {
-    top: -630px;
+    top: -700px;
   }
   .imgabout .about {
     top: -600px;
     left: 610px;
   }
   .aboutme {
-    top: 1200px;
+    top: 1150px;
   }
   .aboutme .welcome-text {
     margin-right: 45%;
