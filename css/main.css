@@ -741,10 +741,10 @@ img, h1, h2, p {
     width: auto;
   }
   .imgabout img {
-    top: -550px;
+    top: -525px;
   }
   .imgabout .about {
-    top: -525px;
+    top: -550px;
     left: 610px;
   }
   .aboutme {
@@ -754,7 +754,7 @@ img, h1, h2, p {
     margin-right: 45%;
   }
   .wbutton {
-    top: 1640px;
+    top: 1625px;
   }
 }
 .wbutton {
