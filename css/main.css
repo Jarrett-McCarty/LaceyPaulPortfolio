@@ -648,30 +648,6 @@ img, h1, h2, p {
     left: -10%;
   }
 }
-@media (min-width: 900px) and (max-width: 1441px) {
-  .header img{
-    width: auto;/**/
-    height: auto;
-    bottom: 0px;
-  }
-  .intro img {
-    top: -670px;
-  }
-  .intro .introtext {
-    top: -615px;
-  }
-  /*
-  .hero-subtext {
-
-  }*/
-  .hero-logo {
-    top: -835px;
-    left: 1105px;
-  }
-  .socialmedia {
-    top: 73%;
-  }
-}
 .imgabout {
   position: relative;
   width: 100%;
@@ -735,28 +711,7 @@ img, h1, h2, p {
   margin-top: 15%;
   line-height: 1.6;
 }
-@media (min-width: 900px) and (max-width: 1441px) {
-  .imgabout .rect1 {
-    top: -643px;
-    width: auto;
-  }
-  .imgabout img {
-    top: -600px;
-  }
-  .imgabout .about {
-    top: -500px;
-    left: 610px;
-  }
-  .aboutme {
-    top: 1125px;
-  }
-  .aboutme .welcome-text {
-    margin-right: 45%;
-  }
-  .wbutton {
-    top: 1625px;
-  }
-}
+
 .wbutton {
   text-align: center;
   top: 1695px;
@@ -924,28 +879,6 @@ img, h1, h2, p {
   -webkit-box-shadow: 7px 7px 7px -7px #020402;
           box-shadow: 7px 7px 7px -7px #020402;
 }
-
-@media (min-width: 900px) and (max-width: 1441px) {
-  .rect3 {
-    width: 1420px;
-  }
-  .rect4 {
-    width: 1853px;
-  }
-
-  .home3 {
-    top: 475px;
-  }
-  .she{
-    top: 2975px;
-  }
-
-  .portfolio-text {
-    margin-top: 15%;
-    margin-right: 45%;
-  }
-
-}
 .con {
   position: absolute;
   color: #020402;
@@ -979,14 +912,7 @@ img, h1, h2, p {
   width: 1519px;
   background-color: #CACFD6;
 }
-@media (min-width: 900px) and (max-width: 1441px) {
-  .finalrect {
-    width: auto;
-  }
-  .creditsrect {
-    width: auto;
-  }
-}
+
 .name1 {
   color: #2C2E33;
   font-family: "Open Sans", sans-serif;
@@ -1100,26 +1026,7 @@ img, h1, h2, p {
   grid-column: 4 / span 4;
   grid-row: 3 / span 8;
 }
-@media (min-width: 900px) and (max-width: 1441px) {
-  .portfolio-item {
-    top: 650px;
-  }
-  .con {
-    top: 5065px;
-  }
-  .name1 {
-    top: 5825px;
-    left: 1200px;
-  }
-  .name {
-    top: 5850px;
-    left: 1200px;
-  }
-  .end {
-    top: 5875px;
-    left: 1200px;
-  }
-}
+
 .birdrect {
   position: relative;
   top: 0px;
@@ -1728,5 +1635,92 @@ img, h1, h2, p {
 
 .temp h1 {
   color: #020402;
+}
+@media (min-width: 900px) and (max-width: 1441px) {
+  .header img{
+    width: auto;/**/
+    height: auto;
+    bottom: 0px;
+  }
+  .intro img {
+    top: -670px;
+  }
+  .intro .introtext {
+    top: -615px;
+  }
+  /*
+  .hero-subtext {
+
+  }*/
+  .hero-logo {
+    top: -835px;
+    left: 1105px;
+  }
+  .socialmedia {
+    top: 73%;
+  }
+  .imgabout .rect1 {
+    top: -643px;
+    width: auto;
+  }
+  .imgabout img {
+    top: -600px;
+  }
+  .imgabout .about {
+    top: -500px;
+    left: 610px;
+  }
+  .aboutme {
+    top: 1125px;
+  }
+  .aboutme .welcome-text {
+    margin-right: 45%;
+  }
+  .wbutton {
+    top: 1695px;
+  }
+  .rect3 {
+    width: 1420px;
+  }
+  .rect4 {
+    width: 1853px;
+  }
+
+  .home3 {
+    top: 475px;
+  }
+  .she{
+    top: 2975px;
+  }
+
+  .portfolio-text {
+    margin-top: 15%;
+    margin-right: 45%;
+  }
+
+  .finalrect {
+    width: auto;
+  }
+  .creditsrect {
+    width: auto;
+  }
+  .portfolio-item {
+    top: 650px;
+  }
+  .con {
+    top: 5065px;
+  }
+  .name1 {
+    top: 5825px;
+    left: 1200px;
+  }
+  .name {
+    top: 5850px;
+    left: 1200px;
+  }
+  .end {
+    top: 5875px;
+    left: 1200px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
