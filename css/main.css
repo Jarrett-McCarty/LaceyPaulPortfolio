@@ -748,7 +748,7 @@ img, h1, h2, p {
     left: 610px;
   }
   .aboutme {
-    top: 1120px;
+    top: 1125px;
   }
   .aboutme .welcome-text {
     margin-right: 45%;
@@ -759,7 +759,7 @@ img, h1, h2, p {
 }
 .wbutton {
   text-align: center;
-  top: 1675px;
+  top: 1695px;
   position: absolute;
   left: 900px;
 }
@@ -925,6 +925,27 @@ img, h1, h2, p {
           box-shadow: 7px 7px 7px -7px #020402;
 }
 
+@media (min-width: 900px) and (max-width: 1441px) {
+  .rect3 {
+    width: 1420px;
+  }
+  .rect4 {
+    width: 1853px;
+  }
+
+  .home3 {
+    top: 475px;
+  }
+  .she{
+    top: 2975px;
+  }
+
+  .portfolio-text {
+    margin-top: 15%;
+    margin-right: 45%;
+  }
+
+}
 .con {
   position: absolute;
   color: #020402;
@@ -958,7 +979,14 @@ img, h1, h2, p {
   width: 1519px;
   background-color: #CACFD6;
 }
-
+@media (min-width: 900px) and (max-width: 1441px) {
+  .finalrect {
+    width: auto;
+  }
+  .creditsrect {
+    width: auto;
+  }
+}
 .name1 {
   color: #2C2E33;
   font-family: "Open Sans", sans-serif;
@@ -1072,7 +1100,26 @@ img, h1, h2, p {
   grid-column: 4 / span 4;
   grid-row: 3 / span 8;
 }
-
+@media (min-width: 900px) and (max-width: 1441px) {
+  .portfolio-item {
+    top: 650px;
+  }
+  .con {
+    top: 5065px;
+  }
+  .name1 {
+    top: 5825px;
+    left: 1200px;
+  }
+  .name {
+    top: 5850px;
+    left: 1200px;
+  }
+  .end {
+    top: 5875px;
+    left: 1200px;
+  }
+}
 .birdrect {
   position: relative;
   top: 0px;
