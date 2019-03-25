@@ -1997,7 +1997,7 @@ img, h1, h2, p {
   
   .retbutton {
     text-align: center;
-    top: 8175px;
+    top: 8185px;
     position: absolute;
     left: 6%;
   }
@@ -2024,5 +2024,19 @@ img, h1, h2, p {
             box-shadow: 7px 7px 7px -7px #020402;
   }
   */
+  /* jerky */
+  .jerkybutton {
+    top: 6400px;
+  }
+  /* blue apron */
+  .BALOGO {
+    top: 300px;
+  }
+  .adimg {
+    top: 825px;
+  }
+  .BAretbutton {
+    top: 2570px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
