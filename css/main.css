@@ -1637,6 +1637,7 @@ img, h1, h2, p {
   color: #020402;
 }
 @media (min-width: 900px) and (max-width: 1441px) {
+  /* home */
   .header img{
     width: auto;/**/
     height: auto;
@@ -1722,5 +1723,306 @@ img, h1, h2, p {
     top: 5875px;
     left: 1200px;
   }
+  /* bird */
+  /*.birdrect {
+    position: relative;
+    top: 0px;
+    height: 600px;
+    width: 50%;
+    background-color: #E8E9EB;
+  }*/
+  /*
+  .title {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    color: #020402;
+    font-family: "Open Sans", sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+  }*/
+  
+  .titletext {
+    position: absolute;
+    top: 18%;
+    margin-left: 9%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  
+  .slogan {
+    position: absolute;
+    top: 60%;
+    margin-left: 9%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  /*
+  .credits {
+    position: absolute;
+    top: 22%;
+    left: 60%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  
+  .logotext {
+    position: absolute;
+    top: 100%;
+    left: 80px;
+    color: #020402;
+    font-family: "Abril Fatface", cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .logotextbody {
+    position: absolute;
+    top: 112%;
+    margin-left: 6%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  
+  .logoimgone {
+    width: 25%;
+    height: auto;
+    position: relative;
+    left: 44%;
+    top: 150px;
+  }
+  
+  .logoimgtwo {
+    width: 25%;
+    height: auto;
+    position: relative;
+    left: 70%;
+    top: 120px;
+  }
+  
+  .logoimgthree {
+    width: 25%;
+    height: auto;
+    position: relative;
+    left: 44%;
+    top: 110px;
+  }
+  
+  .printtitle {
+    position: absolute;
+    top: 210%;
+    left: 80px;
+    color: #020402;
+    font-family: "Abril Fatface", cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .printtitletext {
+    position: absolute;
+    top: 222%;
+    margin-left: 6%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  */
+  .printadimgone {
+    width: 150%;
+    height: auto;
+    position: relative;
+    left: 10%;
+    top: 190px;
+  }
+  
+  .printadimgtwo {
+    width: 282%;
+    height: auto;
+    position: relative;
+    left: 174%;
+    top: -372px;
+  }
+  
+  .printadimgthree {
+    width: 150%;
+    height: auto;
+    position: relative;
+    left: 10%;
+    top: -200px;
+  }
+  
+  .printadimgfour {
+    width: 282%;
+    height: auto;
+    position: relative;
+    left: 174%;
+    top: -762px;
+  }
+  
+  .OOHtitle {
+    position: absolute;
+    top: 515%;
+    left: 80px;
+    color: #020402;
+    font-family: "Abril Fatface", cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .OOHtext {
+    position: absolute;
+    top: 527%;
+    margin-left: 6%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  
+  .OOHimage {
+    width: 35%;
+    height: auto;
+    position: relative;
+    left: 50%;
+    top: 3400px;
+  }
+  /*
+  .instatitle {
+    position: absolute;
+    top: 630%;
+    left: 80px;
+    color: #020402;
+    font-family: "Abril Fatface", cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .instatext {
+    position: absolute;
+    top: 642%;
+    margin-left: 6%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  */
+  .instaimgone {
+    width: 50%;
+    height: auto;
+    position: relative;
+    left: 40%;
+    top: 3775px;
+  }
+  /*
+  .twtitle {
+    position: absolute;
+    top: 730%;
+    left: 80px;
+    color: #020402;
+    font-family: "Abril Fatface", cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .twtext {
+    position: absolute;
+    top: 742%;
+    margin-left: 6%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  */
+  .twimg {
+    width: 150%;
+    height: auto;
+    position: relative;
+    left: 225%;
+    top: -145px;
+  }
+  /*
+  .instaposttitle {
+    position: absolute;
+    top: 850%;
+    left: 80px;
+    color: #020402;
+    font-family: "Abril Fatface", cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .instaposttext {
+    position: absolute;
+    top: 862%;
+    margin-left: 6%;
+    margin-right: 75%;
+    color: #020402;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+  }
+  */
+  .instapostimg {
+    width: 50%;
+    height: auto;
+    position: relative;
+    left: 40%;
+    top: 5200px;
+  }
+  
+  .retbutton {
+    text-align: center;
+    top: 8175px;
+    position: absolute;
+    left: 6%;
+  }
+  /*
+  .retbutton .retbtn {
+    position: relative;
+    border: 1.5px solid #020402;
+    background: none;
+    padding: 10px 20px;
+    font-size: 10px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    cursor: pointer;
+    margin: 10px;
+    color: #020402;
+    text-decoration: none;
+  }
+  
+  .retbutton .retbtn:hover {
+    color: #9AADBF;
+    border: 1.5px solid #9AADBF;
+    -webkit-box-shadow: 7px 7px 7px -7px #020402;
+            box-shadow: 7px 7px 7px -7px #020402;
+  }
+  */
 }
 /*# sourceMappingURL=main.css.map */
