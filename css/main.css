@@ -1669,7 +1669,7 @@ img, h1, h2, p {
   }
   .imgabout .about {
     top: -490px;
-    left: 610px;
+    left: 580px;
   }
   .aboutme {
     top: 1125px;
@@ -1678,30 +1678,30 @@ img, h1, h2, p {
     margin-right: 45%;
   }
   .wbutton {
-    top: 1675px;
+    top: 1665px;
   }
   .rect3 {
     width: 1420px;
   }
   .rect4 {
-    width: 1845px;
+    width: 1840px;
   }
 
   .home3 {
-    top: 495px;
+    top: 530px;
     left: 750px;
   }
   .she{
     top: 2975px;
-    left: 250px;
+    left: 240px;
   }
   .workbutton {
-    left: 410px;
+    left: 400px;
   }
   .portfolio-text {
     margin-top: 15%;
-    margin-right: 53%;
-    left: 270px;
+    margin-right: 54%;
+    left: 240px;
   }
   .portfolio-big-text {
     left: 550px;
@@ -1720,15 +1720,15 @@ img, h1, h2, p {
     top: 4990px;
   }
   .name1 {
-    top: 5800px;
+    top: 5775px;
     left: 1200px;
   }
   .name {
-    top: 5825px;
+    top: 5800px;
     left: 1200px;
   }
   .end {
-    top: 5850px;
+    top: 5825px;
     left: 1200px;
   }
   /* bird */
