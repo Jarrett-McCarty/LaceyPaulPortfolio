@@ -1940,7 +1940,7 @@ img, h1, h2, p {
     height: auto;
     position: relative;
     left: 40%;
-    top: 3400px;
+    top: 3200px;
   }
   /*
   .twtitle {
@@ -2000,12 +2000,12 @@ img, h1, h2, p {
     height: auto;
     position: relative;
     left: 40%;
-    top: 4200px;
+    top: 4400px;
   }
   
   .retbutton {
     text-align: center;
-    top: 7185px;
+    top: 7385px;
     position: absolute;
     left: 6%;
   }
