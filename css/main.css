@@ -1764,7 +1764,7 @@ img, h1, h2, p {
   
   .slogan {
     position: absolute;
-    top: 60%;
+    top: 65%;
     margin-left: 9%;
     color: #020402;
     font-family: "Source Sans Pro", sans-serif;
@@ -1782,7 +1782,7 @@ img, h1, h2, p {
     font-weight: 400;
     line-height: 1.3rem;
   }
-  
+  */
   .logotext {
     position: absolute;
     top: 100%;
@@ -1797,7 +1797,7 @@ img, h1, h2, p {
     position: absolute;
     top: 112%;
     margin-left: 6%;
-    margin-right: 75%;
+    margin-right: 76%;
     color: #020402;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 1.3rem;
@@ -1809,24 +1809,24 @@ img, h1, h2, p {
     width: 25%;
     height: auto;
     position: relative;
-    left: 44%;
-    top: 150px;
+    left: 40%;
+    top: 120px;
   }
   
   .logoimgtwo {
     width: 25%;
     height: auto;
     position: relative;
-    left: 70%;
-    top: 120px;
+    left: 66%;
+    top: 90px;
   }
   
   .logoimgthree {
     width: 25%;
     height: auto;
     position: relative;
-    left: 44%;
-    top: 110px;
+    left: 40%;
+    top: 80px;
   }
   
   .printtitle {
@@ -1843,14 +1843,14 @@ img, h1, h2, p {
     position: absolute;
     top: 222%;
     margin-left: 6%;
-    margin-right: 75%;
+    margin-right: 76%;
     color: #020402;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 1.3rem;
     font-weight: 400;
     line-height: 1.3rem;
   }
-  */
+  
   .printadimgone {
     width: 150%;
     height: auto;
@@ -1864,7 +1864,7 @@ img, h1, h2, p {
     height: auto;
     position: relative;
     left: 174%;
-    top: -372px;
+    top: -342px;
   }
   
   .printadimgthree {
@@ -1880,7 +1880,7 @@ img, h1, h2, p {
     height: auto;
     position: relative;
     left: 174%;
-    top: -762px;
+    top: -732px;
   }
   
   .OOHtitle {
@@ -1897,7 +1897,7 @@ img, h1, h2, p {
     position: absolute;
     top: 527%;
     margin-left: 6%;
-    margin-right: 75%;
+    margin-right: 76%;
     color: #020402;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 1.3rem;
@@ -1910,7 +1910,7 @@ img, h1, h2, p {
     height: auto;
     position: relative;
     left: 50%;
-    top: 3400px;
+    top: 2800px;
   }
   /*
   .instatitle {
